@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "finagotech-translate",
+  "private_key_id": "38b7de0638404519513018824fdd34640020bdcb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDBpmqjdsxzyHtr\nLuXqnoWxvNKpc1tuhutOhT0bqXJbpVsDOqYrrHipqFaRBzPXfg3lUhpkIWOqc9oa\nbfXCoJXShTqH89RpFdn8x2K8QKrgdCMlF50jaoD658eoAwuA6umWUbbnU1Of9/yy\nk9ausSeEsxmL40YEEFCkDh0KVwjvzfp0jFYq7/KjOYAjBNhpK6YmANAChELBkjA6\nhV1ks7lK0ckz5I9nAusaLVL2tcAnYnPso0QKjZHzRoi3qu2zdhApCS4+3y676t4z\no0J1QD/cu2QMKZma8pZy62Mj5+Xh2GMJVWGTjufUqXFRCNzYmVkHwnUjHIxxu27C\n9EDP/smdAgMBAAECgf9kACXeRBSDtgQF7zH+9qp6Hm6rErPxX7rwnkPwOCo8XI4J\ntnLmGsQ02IZB+A/Na34n7grmEL5nFDlZ0wh836OyExrATV0wGkveCkvyhKW5Qwzj\nGrUK+1s5aasXS0gL5Ha7wxB9l/CXRN8GjB6EF8SDwl+iELt9xCJG/DYC7bvi5i5K\nbbeawW7b/61RBdII16HllkcPgEKxii6uTAkpoyUo0Wyl0gV+HJ3lKevNaVX8E64M\nrJ4pHdhpf60I3yO6Z+KJZL57K/S47kYhP/pfTgr/Ha3TRDV/VFBY/e/VeMnCVwZF\nPfclG6HoJS9x2AYXPNmnwIxAuiiOEy688a4PmL0CgYEA8dzCntE7AIKb1AHpqbTo\naDGsiYJtTi0WyNCLudVaurRkp6mt8l+y77klMvg2QB/hmdv/PGEtjHK7cPIqMGmw\nr+KweIVGlXtIs2rRPv/lBovAO/77jsiOpAj3ZXopM8d3kSWH+DOl87KpOjW6NYn9\nR02lpCdc+tXaiyCu+OAsuw8CgYEAzPg0l+ppvQoXZ74nT4NXo4ryujViPi0TE1To\nX0fxxBzjSU21gtxzycrM1nlmchgh1xv2AWW53JZXBnjrrpJM5ynsHJmdLKDmuZPo\np6CSk78NNn7DFVlJlt0pRgljo7aYnyJqMgRd9adFv9cWXRLY/QU+Hgt7YjM+vBrc\nSkA6oJMCgYAEJekgmC4O4C6UAERlqLijsNZotVfyk0tkvk7nLQWVViqzxXE6SvHi\nsqY0rZUgnGteHCvQeUoysnUMhtq6YdWp7pVgO8juH2Mr0JUuI21mI1d0r/bYiBAK\nOC0mDGZQgQdH8gDW/OvHtjS4ztsWt/skEezZV+N8WdaZtEHL+uxJeQKBgGI3nZwe\nK8T2DPkdWWD0ow4vCtjHs+fvWXCuAxuFMgizfwYlQpEOaj2L/FPZoImTnsOhFmTd\nBg75y4HCd80TNd6fbBDYW0SDZYwPoDCS9SnvJrmyTHDydBzipWB2J1TPrpqytwh4\npz2LhhTDUGgRHAFCfd2PyvPncmxYwq6h0HYZAoGBAM2SgqGgDRFA0mj92hWIcSX0\ndt/UCRlvi9RAFRUuexLFE+ure8N2Mo7Dtk0nH1pj3W2Y95dntnycM2rT4PUik/TL\ntO6XrjstairiskAKJR3ylIzAKO9tusOPieE+v5PCirujmSLQ7amfEqAJnaiceg2U\nkF9aqw6M8fvfpWVBPy1q\n-----END PRIVATE KEY-----\n",
+  "client_email": "finagotech-translate-user@finagotech-translate.iam.gserviceaccount.com",
+  "client_id": "108826453203152616428",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finagotech-translate-user%40finagotech-translate.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
